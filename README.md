@@ -2,7 +2,7 @@
 _This is a prototype of a local password manager with open-source code in Python._  
 **Not for real secrets. For fun, learning, and experiments only!** 😎⚡
 
-                                                                                                [![Screenshot-22.png](https://i.postimg.cc/MGKckM3Q/Screenshot-22.png)](https://postimg.cc/FY8F3R4r)
+[![Screenshot-22.png](https://i.postimg.cc/MGKckM3Q/Screenshot-22.png)](https://postimg.cc/FY8F3R4r)
 
 ---
 
@@ -19,7 +19,7 @@ The code is provided for educational, testing, and further development purposes 
 
 ETH: 0xF7c9B5Da072bE02F0dd8bc51Ae67ba05925D27EF
 
-                                                                                                [![Screenshot-38.png](https://i.postimg.cc/zBH2jBrs/Screenshot-38.png)](https://postimg.cc/347Zr3W1)
+[![Screenshot-38.png](https://i.postimg.cc/zBH2jBrs/Screenshot-38.png)](https://postimg.cc/347Zr3W1)
 
 ---
 
