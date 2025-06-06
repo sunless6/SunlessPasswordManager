@@ -73,4 +73,4 @@ By [sunless6](https://github.com/sunless6) 🚀🌙
 
 **Support the project** 
 ETH: 0xF7c9B5Da072bE02F0dd8bc51Ae67ba05925D27EF
-![https://i.postimg.cc/zBH2jBrs/Screenshot-38.png]
+![QR]https://i.postimg.cc/zBH2jBrs/Screenshot-38.png
