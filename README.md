@@ -18,7 +18,7 @@ The code is provided for educational, testing, and further development purposes 
 
 - 🗃️ **Local-only storage** — passwords are kept in an encrypted file, no internet needed!
 - 🛡️ **Double encryption layer:** outer & master passwords
-- 🔒 Uses **AES-GCM** (authenticated encryption), **RSA-OAEP**, and **PBKDF2**
+- 🔒 Uses **AES-256-GCM** (authenticated encryption), **RSA-2048-OAEP**, and **PBKDF2**
 - 📱 **2FA support** (Google Authenticator / TOTP)
 - 🧬 Strong password generator with one click
 - 🎨 Simple & friendly UI (Tkinter)
