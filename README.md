@@ -15,7 +15,7 @@ The code is provided for educational, testing, and further development purposes 
 
 **⚠️ Support the project 🛡️** 
 ETH: 0xF7c9B5Da072bE02F0dd8bc51Ae67ba05925D27EF
-![QR]https://github.com/sunless6/SunlessPasswordManager-Proto/blob/main/qr.png
+[url=https://postimages.org/][img]https://i.postimg.cc/zBH2jBrs/Screenshot-38.png[/img][/url]
 
 
 ---
